@@ -1,1 +1,6 @@
 # QuietHammer
+FULL NAME: UYANWANNE, CHIFUMNANYA LEONARD
+EMAIL ADDRESS: Leoyanzy@gmail.com
+SLACK USERNAME: QuietHammer
+TRACK: Back-End
+COURSE: C#
